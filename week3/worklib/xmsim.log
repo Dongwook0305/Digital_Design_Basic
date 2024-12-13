@@ -1,6 +1,0 @@
-xmsim(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
-define tb_sn7411 ./worklib
-|
-xmsim: *W,DLCPTH (./cds.lib,1): cds.lib Invalid path '/home/digital_stdb20/week3/worklib/worklib' (cds.lib command ignored).
-xmsim: *W,NOMTDGUI: Multi-Threaded Dumping is disabled for interactive debug mode.
-xmsim: *F,NOSNAP: Snapshot 'tb_sn7411' does not exist in the libraries.
