@@ -1,0 +1,23 @@
+xmelab(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xmelab(64)	23.03-s013: Started on Nov 08, 2024 at 10:18:26 KST
+xmelab
+    -MESS
+    -access rwc
+    non_blocking
+
+	Elaborating the design hierarchy:
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		work_lib.non_blocking:module <0x27075136>
+			streams:   7, words:  5068
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Design hierarchy summary:
+		                 Instances  Unique
+		Modules:                 1       1
+		Registers:               5       5
+		Always blocks:           2       2
+		Initial blocks:          3       3
+		Simulation timescale:  1ps
+	Writing initial simulation snapshot: work_lib.non_blocking:module
+TOOL:	xmelab(64)	23.03-s013: Exiting on Nov 08, 2024 at 10:18:27 KST  (total: 00:00:01)

@@ -1,0 +1,19 @@
+copy.txt
+copy2.txt
+linux1
+linux2
+linux4
+my.tgz
+result.txt
+test.txt
+total 16
+drwxr-xr-x 5 digital_stdb20 digital_stdb20 129 Sep 13 10:42 .
+drwx------ 9 digital_stdb20 digital_stdb20 324 Sep 13 10:42 ..
+-rw-r--r-- 1 digital_stdb20 digital_stdb20  21 Sep 13 10:04 copy.txt
+lrwxrwxrwx 1 digital_stdb20 digital_stdb20  14 Sep 13 10:09 copy2.txt -> ./original.txt
+drwxr-xr-x 2 digital_stdb20 digital_stdb20  24 Sep  6 11:30 linux1
+drwxr-xr-x 3 digital_stdb20 digital_stdb20  20 Sep  6 10:22 linux2
+drwxr-xr-x 2 digital_stdb20 digital_stdb20   6 Sep  6 11:26 linux4
+-rw-r--r-- 1 digital_stdb20 digital_stdb20 195 Sep 13 10:25 my.tgz
+-rw-r--r-- 1 digital_stdb20 digital_stdb20  67 Sep 13 10:42 result.txt
+-rw-r--r-- 1 digital_stdb20 digital_stdb20 112 Sep 13 10:12 test.txt

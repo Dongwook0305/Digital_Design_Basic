@@ -1,0 +1,4 @@
+xmsim(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+xmsim: *W,DLNOCL: Unable to find a 'cds.lib' file to load in.
+xmsim: *W,NOMTDGUI: Multi-Threaded Dumping is disabled for interactive debug mode.
+xmsim: *F,NOSNAP: Snapshot 'tb_sn7411' does not exist in the libraries.

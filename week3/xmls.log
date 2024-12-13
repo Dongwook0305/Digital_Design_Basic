@@ -1,0 +1,7 @@
+xmls(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+	module tb_sn7411.AND3X1:module (VST)
+	module tb_sn7411.AND3X1:module (SIG) <0x44a0e523>
+	module tb_sn7411.SN74LS11:module (VST)
+	module tb_sn7411.SN74LS11:module (SIG) <0x65846b2d>
+	module tb_sn7411.tb_sn7411:module (VST)
+	snapshot tb_sn7411.tb_sn7411:module (SSS)

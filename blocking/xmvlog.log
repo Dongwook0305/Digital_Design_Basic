@@ -1,0 +1,11 @@
+xmvlog(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xmvlog(64)	23.03-s013: Started on Nov 08, 2024 at 10:18:26 KST
+xmvlog
+    -MESS
+    -linedebug
+    ./non_blocking.v
+
+file: ./non_blocking.v
+	module work_lib.non_blocking
+		errors: 0, warnings: 0
+TOOL:	xmvlog(64)	23.03-s013: Exiting on Nov 08, 2024 at 10:18:26 KST  (total: 00:00:00)

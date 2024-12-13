@@ -1,0 +1,10 @@
+compile:
+	xmvlog -MESS -linedebug ./*.v
+
+elab:
+	xmelab -MESS -access rwc tb_sn7411
+
+sim: 
+	xmsim tb_sn7411 -gui
+
+all: compile elab sim
